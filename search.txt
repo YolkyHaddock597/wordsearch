@@ -1,0 +1,17 @@
+[["O","M","D","U","E","C","N","A","R","E","L","O","T","N","I"],
+["M","S","R","R","L","I","E","V","C","D","E","E","R","C","E"],
+["O","I","E","S","B","B","I","G","O","T","R","Y","Y","E","E"],
+["D","V","A","G","L","I","E","R","A","T","I","C","N","T","T"],
+["E","I","M","O","E","A","E","Q","T","R","A","V","A","N","D"],
+["E","T","T","H","E","V","I","O","U","G","U","L","I","D","A"],
+["R","C","Y","W","E","R","C","R","E","A","O","O","E","S","B"],
+["F","A","E","R","E","Y","J","L","O","S","L","C","C","D","T"],
+["O","M","E","A","O","E","A","S","E","M","I","I","I","L","H"],
+["E","N","G","B","N","T","N","D","A","B","E","G","T","O","O"],
+["D","A","U","T","S","T","U","H","I","N","N","M","H","Y","L"],
+["N","G","S","I","T","H","A","A","T","I","M","A","C","T","I"],
+["T","E","S","R","F","T","R","Z","T","Q","C","M","R","H","D"],
+["Q","A","N","R","J","L","Y","Y","H","H","Y","T","A","P","A"],
+["O","D","M","I","N","I","S","T","E","R","W","N","M","F","Y"]]
+
+["Activism","Activist","Bigotry","Boycott","Courage","Creed","Desolate","Dignity","Dream","Equality","Freedom","Holiday","Intolerance","January","Legacy","March","Memorial","Minister","Oasis","Reagan,"Reverend"]
