@@ -126,7 +126,7 @@ for letters in "hi":
     for word in words[:]:  # Iterate over a copy of the list
         sub = str4.find(word)
         if sub != -1:
-            loc = [word, sub, "lr"]
+            loc = [word, sub, "rl"]
             locs.append(loc)
             words.remove(word)
     #print(locs)
